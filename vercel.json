@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
   "env": {
     "TOGETHER_API_KEY": "@together_api_key",
     "STRIPE_SECRET_KEY": "@stripe_secret_key",
