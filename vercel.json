@@ -6,6 +6,9 @@
     { "source": "/(.*)", "destination": "/index.html" }
   ],
   "env": {
-    "HF_API_KEY": "@hf_api_key"
+    "HF_API_KEY": "@hf_api_key",
+    "STRIPE_PUBLIC_KEY": "@stripe_public_key",
+    "STRIPE_SECRET_KEY": "@stripe_secret_key",
+    "GOOGLE_ADSENSE_ID": "@google_adsense_id"
   }
 }
